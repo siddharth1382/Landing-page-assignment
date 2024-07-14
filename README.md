@@ -25,3 +25,6 @@ View the live demo [here](https://your-github-username.github.io/your-repo-name)
    
 3. Open index.html in your web browser.
 
+## Contact
+
+For any questions or feedback, contact me at bailwalsiddharth@gmail.com.
