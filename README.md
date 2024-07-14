@@ -12,6 +12,7 @@ This repository contains the source code for a homepage developed for an interns
 ## Live Demo
 
 View the live demo [here](https://elaborate-stroopwafel-643f61.netlify.app/).
+
 Alternative link [here](https://landing-page-assignment-sooty.vercel.app/).
 ## Installation
 
