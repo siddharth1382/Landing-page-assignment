@@ -17,7 +17,7 @@ View the live demo [here](https://your-github-username.github.io/your-repo-name)
 
 1. Clone the repository:
    bash
-   git clone https://github.com/your-github-username/your-repo-name.git
+   git clone [https://github.com/siddharth1382/Landing-page-assignment].
    
 2. Navigate to the project directory:
    bash
