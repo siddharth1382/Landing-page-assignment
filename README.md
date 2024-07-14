@@ -11,7 +11,7 @@ This repository contains the source code for a homepage developed for an interns
 
 ## Live Demo
 
-View the live demo [here](https://your-github-username.github.io/your-repo-name).
+View the live demo [here](https://elaborate-stroopwafel-643f61.netlify.app/).
 
 ## Installation
 
