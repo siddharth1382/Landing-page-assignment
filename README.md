@@ -25,10 +25,3 @@ View the live demo [here](https://your-github-username.github.io/your-repo-name)
    
 3. Open index.html in your web browser.
 
-## Contact
-
-For any questions or feedback, contact me at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Replace your-github-username, your-repo-name, and your-email@example.com with your actual details. This version focuses on essential information for quick understanding.
