@@ -9,7 +9,7 @@ This repository contains the source code for a homepage developed for an interns
 3. *Our Project Section*: Interactive image change based on content click.
 4. *Hover Highlight*: Interactive hover effect on cards.
 
-## Live Demo
+## Live Demonstration
 
 View the live demo [here](https://elaborate-stroopwafel-643f61.netlify.app/).
 
