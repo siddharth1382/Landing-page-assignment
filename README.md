@@ -1,6 +1,6 @@
 # Homepage Assignment
 
-This repository contains the source code for a homepage developed for an internship application. The homepage is built using Bootstrap, JavaScript, jQuery, and plain CSS.
+This repository contains the source code for landing page of a digital agency. The homepage is built using Bootstrap, JavaScript, jQuery, and plain CSS.
 
 ## Features
 
